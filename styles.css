@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+body {
+	
+	background: url("images/backgr.jpg");
+	padding: 0;
+	margin: 0; 
+}
+
+ .backgr{
+left:0px;
+top:0px;
+}
+
+img {position: absolute}
+.teeny {
+	left: 432px;
+	top: 153px;
+}
+
+.esma {
+	left: 0px;
+	top: 238px;
+	}
+
+.chair {
+	left: 674px;
+	top: 501px;	
+}
+
+.coop {
+	left: 390px;
+	top: 615px;
+}
+
+.lipz {
+	left: 642px;
+	top: 0px;
+}
+
+.bonus {
+	left: 40px;
+	top:827px; 
+}
+
+.sucker {
+	left: 1025px;
+	top: 91px;
+}
+
+.nose {
+	left: 1272px;
+	top: 443px;
+}
+
+.hair {
+	left: 1309px;
+	top: 80px;
+}
+
+p1 {position: absolute;
+	left: 23px;
+	top: 167px;
+	font-size: 17px;	
+}
+
+p2 {position: absolute;
+	left: 33px;
+	top: 799px; 
+}
+
+
+
+
+	

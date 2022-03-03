@@ -1,0 +1,49 @@
+@charset "UTF-8";
+@import url("stylesnoodle.css");
+
+body {
+	background: url("images/spaghettios.jpg");
+	padding: 0;
+	margin: 0;  
+} 
+
+
+
+.spaghettios{
+left:0px;
+top:0px;
+}
+
+.gif {
+position: absolute;
+left: 1113px;
+top: 14px;	
+}
+
+.dog {
+	position: relative;
+	left: 650px;
+
+}
+
+
+h1{ position: absolute;
+	font-size: 78px;
+	color: chartreuse;
+ }
+
+
+p1 {position: absolute;
+font-size: 35px;
+left:0px;
+top:300px}
+
+p2 {position: absolute;
+font-size: 45px;
+left:0px;
+top:423px}
+
+video {position: absolute;
+left: 478px;
+top: 510px;
+}
